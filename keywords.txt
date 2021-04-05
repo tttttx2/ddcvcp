@@ -1,0 +1,13 @@
+# Syntax Coloring Map For ExampleLibrary
+
+# Datatypes (KEYWORD1)
+
+# Methods and Functions (KEYWORD2)
+setBrightness KEYWORD2
+getBrightness KEYWORD2
+setPower KEYWORD2
+getPower KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1) 
