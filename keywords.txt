@@ -1,12 +1,18 @@
 # Syntax Coloring Map For ExampleLibrary
 
 # Datatypes (KEYWORD1)
+DDCVCP KEYWORD1
 
 # Methods and Functions (KEYWORD2)
-setBrightness KEYWORD2
-getBrightness KEYWORD2
 setPower KEYWORD2
 getPower KEYWORD2
+begin KEYWORD2
+setBrightness KEYWORD2
+getBrightness KEYWORD2
+setVCP KEYWORD2
+getVCP KEYWORD2
+setSource KEYWORD2
+getSource KEYWORD2
 
 # Instances (KEYWORD2)
 
